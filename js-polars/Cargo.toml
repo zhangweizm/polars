@@ -1,5 +1,5 @@
 [package]
-name = "polars-js"
+name = "polars"
 version = "0.0.1"
 authors = ["Ritchie Vink"]
 documentation = "https://pola-rs.github.io/polars-book/"
